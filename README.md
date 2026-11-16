@@ -21,7 +21,7 @@ I write about shipping AI into production, running engineering teams, and experi
 Open source I'd point you to:
 - **[nextjs-indexnow](https://github.com/sebastiangrebe/nextjs-indexnow)**: submits new and changed URLs to IndexNow after every Next.js build
 - **[autoportfolio](https://github.com/sebastiangrebe/autoportfolio)**: a stateful AI portfolio manager that runs as a Claude Code plugin
-- **[deepvector](https://github.com/sebastiangrebe/deepvector)**: how much code-retrieval signal lives in Mamba's latent state
+- **[deepvector](https://github.com/sebastiangrebe/deepvector-experiment)**: how much code-retrieval signal lives in Mamba's latent state
 
 Author of *Hands-On Full-Stack Development* (Packt).
 
